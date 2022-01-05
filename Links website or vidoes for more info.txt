@@ -1,0 +1,7 @@
+https://www.tutorialspoint.com/entity_framework/entity_framework_code_first_approach.htm
+
+https://www.youtube.com/watch?v=qkJ9keBmQWo&t=1086s
+
+https://www.youtube.com/watch?v=kbH-rqMl8cE&t=235s
+
+https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx
