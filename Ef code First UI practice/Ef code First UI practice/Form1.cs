@@ -32,6 +32,16 @@ namespace Ef_code_First_UI_practice
             _db.SaveChanges();
 
             MessageBox.Show("succeed ");
+            dataGridView1.DataSource = _db.Companys.ToList();
+
+
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = _db.Companys.ToList();
+            dataGridView1.AutoSizeColumnsMode=DataGridViewAutoSizeColumnsMode.Fill;
         }
     }
 }
