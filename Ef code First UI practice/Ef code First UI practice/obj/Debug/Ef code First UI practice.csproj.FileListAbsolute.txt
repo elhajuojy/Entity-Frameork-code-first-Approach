@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\bin\Debug\Ef code First UI practice.exe.config
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\bin\Debug\Ef code First UI practice.exe
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\bin\Debug\Ef code First UI practice.pdb
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef_code_First_UI_practice.Form1.resources
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef_code_First_UI_practice.Properties.Resources.resources
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.csproj.CopyComplete
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.exe
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.pdb
