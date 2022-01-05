@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
 namespace Ef_code_First_UI_practice.Models
 {
@@ -15,8 +16,8 @@ namespace Ef_code_First_UI_practice.Models
         public int CompanyID { get; set; }
 
         public string CNAME { get; set; }
-
-        public string ADDRESS { get; set; }
+        
+        public string ADDRESS { get; set; } 
 
     }
 }
