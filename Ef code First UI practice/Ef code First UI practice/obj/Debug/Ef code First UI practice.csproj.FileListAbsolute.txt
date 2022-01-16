@@ -15,3 +15,4 @@ C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code
 C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.exe
 C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef code First UI practice.pdb
 C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef_code_First_UI_practice.Migrations.initial.resources
+C:\Users\pc\Desktop\EntityFrameWork code first\Ef code First UI practice\Ef code First UI practice\obj\Debug\Ef_code_First_UI_practice.Migrations.v1.resources

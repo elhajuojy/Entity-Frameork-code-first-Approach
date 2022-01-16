@@ -20,6 +20,12 @@ namespace Ef_code_First_UI_practice.Models
 
         public string Email { get; set; }
 
+        public DateTime HireDate { get; set; }
+
+        public decimal salary { get; set; }
+
+        public string job { get; set; }
+        
         public int CompanyID { get; set; }
     }
 }

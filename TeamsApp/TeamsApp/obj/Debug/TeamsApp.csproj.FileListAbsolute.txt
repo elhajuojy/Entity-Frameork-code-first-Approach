@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\bin\Debug\TeamsApp.exe.config
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\bin\Debug\TeamsApp.exe
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\bin\Debug\TeamsApp.pdb
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.Properties.Resources.resources
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.csproj.CopyComplete
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.exe
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.pdb
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.Migrations.initial.resources
+C:\Users\pc\Desktop\EntityFrameWork code first\TeamsApp\TeamsApp\obj\Debug\TeamsApp.Form1.resources

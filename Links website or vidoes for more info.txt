@@ -1,7 +1,11 @@
-articles:
+ articles:
 https://www.tutorialspoint.com/entity_framework/entity_framework_code_first_approach.htm
 https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx
 https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database
+https://www.entityframeworktutorial.net/entityframework6/dbcontext.aspx
+https://www.entityframeworktutorial.net/crud-operation-in-connected-scenario-entity-framework.aspx
+https://www.entityframeworktutorial.net/code-first/migration-in-code-first.aspx
+https://www.entityframeworktutorial.net/code-first/code-based-migration-in-code-first.aspx
 
 
 

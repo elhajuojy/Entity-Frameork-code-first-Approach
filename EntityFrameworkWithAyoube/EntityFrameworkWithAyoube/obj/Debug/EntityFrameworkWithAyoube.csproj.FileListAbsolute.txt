@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\bin\Debug\EntityFrameworkWithAyoube.exe.config
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\bin\Debug\EntityFrameworkWithAyoube.exe
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\bin\Debug\EntityFrameworkWithAyoube.pdb
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.Properties.Resources.resources
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.csproj.CopyComplete
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.exe
+C:\Users\pc\Desktop\EntityFrameWork code first\EntityFrameworkWithAyoube\EntityFrameworkWithAyoube\obj\Debug\EntityFrameworkWithAyoube.pdb

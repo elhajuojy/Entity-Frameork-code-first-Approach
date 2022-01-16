@@ -19,5 +19,7 @@ namespace Ef_code_First_UI_practice.Models
         
         public string ADDRESS { get; set; } 
 
+        
+
     }
 }

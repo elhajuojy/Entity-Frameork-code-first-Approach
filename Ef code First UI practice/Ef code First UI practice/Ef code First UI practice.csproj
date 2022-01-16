@@ -68,6 +68,10 @@
     <Compile Include="Migrations\202201051150085_initial.designer.cs">
       <DependentUpon>202201051150085_initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202201111101495_v1.cs" />
+    <Compile Include="Migrations\202201111101495_v1.designer.cs">
+      <DependentUpon>202201111101495_v1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\CeContext.cs" />
     <Compile Include="Models\Company.cs" />
@@ -79,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202201051150085_initial.resx">
       <DependentUpon>202201051150085_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202201111101495_v1.resx">
+      <DependentUpon>202201111101495_v1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
