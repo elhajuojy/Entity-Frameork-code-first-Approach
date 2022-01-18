@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\TestContext!\TestContext!\bin\Debug\TestContext!.exe.config
+C:\Users\pc\source\repos\TestContext!\TestContext!\bin\Debug\TestContext!.exe
+C:\Users\pc\source\repos\TestContext!\TestContext!\bin\Debug\TestContext!.pdb
+C:\Users\pc\source\repos\TestContext!\TestContext!\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\TestContext!\TestContext!\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\TestContext!\TestContext!\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\TestContext!\TestContext!\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext!.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext_.Properties.Resources.resources
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext!.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext!.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext!.csproj.CopyComplete
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext!.exe
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext!.pdb
+C:\Users\pc\source\repos\TestContext!\TestContext!\obj\Debug\TestContext_.Migrations.initial.resources
